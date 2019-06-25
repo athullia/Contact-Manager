@@ -12,3 +12,5 @@ sdkfjnsd
 68e2914... hello
 
 this is good
+
+this is to squash first commit
