@@ -9,7 +9,6 @@ Contact Manager Application is similar to a contact list in a cell phone. This A
 sfjksdlhf
 sdkfjnsd
 
-68e2914... hello
 
 this is good
 
